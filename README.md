@@ -1,11 +1,10 @@
 # Projects
-## Yandex Practicum Data Science+ Projects.
+## Data Science Projects.
 
-Репозиторий с проектами, звершенными в процессе обучения по направлению Data Science+.
+Репозиторий состоит как из учебных проектов, так и проектов с Kaggle и др. ресурсов..
 
 | № | Название проекта  | Краткое описание | Инструменты |
 |--|--|--|--|
-|1| [Яндекс Музыка](https://github.com/TrDenis/Yandex_Practicum_DS_Plus/blob/main/01_yandex_music/01_yandex_music.ipynb) | Исследование поведения пользователей Яндекс Музыки двух столиц. | `pandas` |
 |2| [Исследование надёжности заёмщиков](https://github.com/TrDenis/Yandex_Practicum_DS_Plus/blob/main/02_borrowers/02_borrowers.ipynb) | Проанализировать статистику о платёжеспособности клиентов кредитного отдела банка. | `pandas` |
 |3| [Исследование объявлений о продаже квартир](https://github.com/TrDenis/Yandex_Practicum_DS_Plus/blob/main/03_real_estate/03_real_estate.ipynb) | На основании данных сервиса Яндекс.Недвижимость определить рыночную стоимость объектов недвижимости и установить параметры, которые помогут отследить аномалии и мошенническую деятельность. | `pandas` , `matplotlib`, `seaborn`|
 |4| [Исследование данных о российском кинопрокате](https://github.com/TrDenis/Yandex_Practicum_DS_Plus/blob/main/04_prefab_film_distribution/04_prefab_film_distribution.ipynb) | Изучить рынок российского кинопроката и выявить текущие тренды. Обратить внимание на фильмы, которые получили государственную поддержку. Изучить, насколько такие фильмы интересны зрителю. | `pandas` , `matplotlib`, `numpy`|
